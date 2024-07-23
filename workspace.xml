@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5838ae84-02cd-43e8-8483-9e1d6618f580" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2jGiojOCphgZzbCxZOnXe7xrEng" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.BillingAddressTest (1).executor": "Run",
+    "TestNG.BillingAddressTest.executor": "Run",
+    "TestNG.BillingAddressTest.verifyAddingShippingAddress.executor": "Run",
+    "TestNG.BillingAddressTest.verifyBillingAddress.executor": "Run",
+    "TestNG.CafeFinderTest.verifyCafeFinder.executor": "Run",
+    "TestNG.CartTest.deleteItemInCart.executor": "Run",
+    "TestNG.CartTest.verifyCartIcon.executor": "Run",
+    "TestNG.ForgotPasswordTest.executor": "Run",
+    "TestNG.ForgotPasswordTest.verifyForgotPassword.executor": "Run",
+    "TestNG.HomeTest.verifyFirstOrderDiscount.executor": "Run",
+    "TestNG.HomeTest.verifySearchOption.executor": "Run",
+    "TestNG.LoginTest.executor": "Run",
+    "TestNG.LoginTest.verifyLogoutBtnDisplayed.executor": "Run",
+    "TestNG.LoginTest.verifyWithInvalidUsernameInvalidPassword.executor": "Run",
+    "TestNG.LoginTest.verifyWithInvalidUsernamePassword.executor": "Run",
+    "TestNG.LoginTest.verifyWithValidUsernameInvalidPassword.executor": "Run",
+    "TestNG.LoginTest.verifyWithValidUsernamePassword.executor": "Run",
+    "TestNG.LoginTest.verifyWithWithoutUsernamePassword.executor": "Run",
+    "TestNG.MyAccountTest.verifyCartICon.executor": "Run",
+    "TestNG.MyAccountTest.verifyLogoutFunction.executor": "Run",
+    "TestNG.NewsLetterSubscribeTest.executor": "Run",
+    "TestNG.NewsLetterSubscribeTest.verifyNewsletterSubscribe.executor": "Run",
+    "TestNG.OnboardingTest (1).executor": "Run",
+    "TestNG.OnboardingTest (2).executor": "Run",
+    "TestNG.OnboardingTest.executor": "Run",
+    "TestNG.OnboardingTest.verifyOnboarding (1).executor": "Debug",
+    "TestNG.OnboardingTest.verifyOnboarding.executor": "Run",
+    "TestNG.OnboardingTest.verifyOnboardingWIthValidEmailValidPassword.executor": "Run",
+    "TestNG.OnboardingTest.verifyOnboardingWithInvalidEmailInvalidPassword.executor": "Run",
+    "TestNG.OnboardingTest.verifyOnboardingWithInvalidEmailValidPassword.executor": "Run",
+    "TestNG.OnboardingTest.verifyOnboardingWithValidEmailInvalidPassword.executor": "Run",
+    "TestNG.OnboardingTest.verifyOnboardingWithoutEmailPassword.executor": "Run",
+    "TestNG.PartnershipTest.verifyPartnershipRegister.executor": "Run",
+    "TestNG.PlantTest.verifyUploadReceipt.executor": "Run",
+    "TestNG.ProductTest.executor": "Run",
+    "TestNG.ProductTest.verifyAddProductToCart.executor": "Run",
+    "TestNG.ShippingAddressTest.verifyAddingShippingAddress.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/hp/IdeaProjects/AutomationProject/src/main/resources/receipt",
+    "onboarding.tips.debug.path": "C:/Users/hp/IdeaProjects/AutomationProject/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\IdeaProjects\AutomationProject\src\main\resources\receipt" />
+      <recent name="C:\Users\hp\IdeaProjects\AutomationProject\src\main\resources\drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.PlantTest.verifyUploadReceipt">
+    <configuration name="CartTest.verifyCartIcon" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testclasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testclasses" />
+      <option name="MAIN_CLASS_NAME" value="testclasses.CartTest" />
+      <option name="METHOD_NAME" value="verifyCartIcon" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyAccountTest.verifyCartICon" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testclasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testclasses" />
+      <option name="MAIN_CLASS_NAME" value="testclasses.MyAccountTest" />
+      <option name="METHOD_NAME" value="verifyCartICon" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyAccountTest.verifyLogoutFunction" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testclasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testclasses" />
+      <option name="MAIN_CLASS_NAME" value="testclasses.MyAccountTest" />
+      <option name="METHOD_NAME" value="verifyLogoutFunction" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlantTest.verifyUploadReceipt" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testclasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testclasses" />
+      <option name="MAIN_CLASS_NAME" value="testclasses.PlantTest" />
+      <option name="METHOD_NAME" value="verifyUploadReceipt" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShippingAddressTest.verifyAddingShippingAddress" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testclasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testclasses" />
+      <option name="MAIN_CLASS_NAME" value="testclasses.ShippingAddressTest" />
+      <option name="METHOD_NAME" value="verifyAddingShippingAddress" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.PlantTest.verifyUploadReceipt" />
+        <item itemvalue="TestNG.CartTest.verifyCartIcon" />
+        <item itemvalue="TestNG.MyAccountTest.verifyLogoutFunction" />
+        <item itemvalue="TestNG.MyAccountTest.verifyCartICon" />
+        <item itemvalue="TestNG.ShippingAddressTest.verifyAddingShippingAddress" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5838ae84-02cd-43e8-8483-9e1d6618f580" name="Changes" comment="" />
+      <created>1721019999413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721019999413</updated>
+    </task>
+    <servers />
+  </component>
+</project>
